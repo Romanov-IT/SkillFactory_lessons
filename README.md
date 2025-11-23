@@ -13,4 +13,5 @@ numpy and collections
 * numpy practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2009%20numpy%20collections/numpy%20practice.ipynb)]
 * random numbers [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2009%20numpy%20collections/random%20numbers.ipynb)]
 ## block 10 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2010%20pandas)]
-* pandas Series [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20Series.ipynb)]
+* pandas Series and series practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20Series.ipynb)]
+* pandas DataFrame and DataFrame practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20DataFrame.ipynb)]
