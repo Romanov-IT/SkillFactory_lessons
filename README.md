@@ -1,7 +1,6 @@
 # SkillFactory_lessons
 
 ## block 09 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2009%20numpy%20collections)]
-numpy and collections
 * collections counter and defaultdict [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2009%20numpy%20collections/from%20collections%20counter%20defaultdict.ipynb)]
 * collections Deque and OrderedDict [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2009%20numpy%20collections/from%20collections%20Deque%20OrderedDict.ipynb)]
 * collections practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2009%20numpy%20collections/from%20cllections%20practice.ipynb)]
