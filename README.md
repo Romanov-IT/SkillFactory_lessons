@@ -15,3 +15,4 @@
 * pandas Series and Series practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20Series.ipynb)]
 * pandas DataFrame and DataFrame practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20DataFrame.ipynb)]
 * pandas various data sources [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20various%20data%20sources.ipynb)]
+* pandas practice with data: real estate [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20practice%20with%20data%20(real%20estate).ipynb)]
