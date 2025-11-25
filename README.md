@@ -17,3 +17,5 @@
 * pandas various data sources [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20various%20data%20sources.ipynb)]
 * pandas practice with data: real estate [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20practice%20with%20data%20(real%20estate).ipynb)]
 * pandas statistics methods [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20statistics%20pethod.ipynb)]
+* pandas filtering data in DataFrame [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20filtering%20data%20in%20DataFrame.ipynb)]
+* pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20practice.ipynb)]
