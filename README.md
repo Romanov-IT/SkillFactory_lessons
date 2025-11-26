@@ -19,5 +19,5 @@
 * pandas statistics methods [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20statistics%20methods.ipynb)]
 * pandas filtering data in DataFrame [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20filtering%20data%20in%20DataFrame.ipynb)]
 * pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20practice.ipynb)]
-** block 11 pandas []
+## block 11 pandas []
 * basic techniques for working with data []sasd
