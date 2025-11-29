@@ -20,5 +20,5 @@
 * pandas filtering data in DataFrame [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20filtering%20data%20in%20DataFrame.ipynb)]
 * pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20practice.ipynb)]
 ## block 11 pandas [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2011%20pandas)]
-* basic techniques for working with data []
-* A byte of python
+* pandas basic techniques for working with data [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2011%20pandas/pandas%20basic%20operations%20with%20DF%20columns.ipynb)]
+* pandas datetime []
