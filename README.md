@@ -21,4 +21,4 @@
 * pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2010%20pandas/pandas%20practice.ipynb)]
 ## block 11 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2011%20pandas)]
 * pandas basic techniques for working with data [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2011%20pandas/pandas%20basic%20operations%20with%20DF%20columns.ipynb)]
-* pandas datetime []
+* pandas datetime and practice []
