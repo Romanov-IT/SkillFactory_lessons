@@ -23,4 +23,4 @@
 * pandas basic techniques for working with data [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2011%20pandas/pandas%20basic%20operations%20with%20DF%20columns.ipynb)]
 * pandas datetime and practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2011%20pandas/pandas%20datatime%20and%20practice.ipynb)]
 * pandas creating and editing columns using the function [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2011%20pandas/pandas%20creating%20and%20editing%20columns%20using%20the%20function.ipynb)]
-* 
+* pandas category []
