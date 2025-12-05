@@ -25,5 +25,5 @@
 * pandas creating and editing columns using the function [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2011%20pandas/pandas%20creating%20and%20editing%20columns%20using%20the%20function.ipynb)]
 * pandas category [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2011%20pandas/pandas%20category.ipynb)]
 * pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2011%20pandas/pandas%20practice.ipynb)]
-## block 12 []
+## block 12 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2012%20pandas)]
 * pandas sorting dataframe []
