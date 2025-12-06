@@ -28,3 +28,4 @@
 ## block 12 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2012%20pandas)]
 * pandas sorting dataframe [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20sorting%20dataframe.ipynb)]
 * pandas grouping dataframe [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20grouping%20dataframe.ipynb)]
+* pandas pivot tables [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20pivot%20tables.ipynb)]
