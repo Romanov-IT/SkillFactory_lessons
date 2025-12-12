@@ -31,3 +31,4 @@
 * pandas pivot tables [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20pivot%20tables.ipynb)]
 * pandas concatenation of DataFrame []
 * pandas 
+
