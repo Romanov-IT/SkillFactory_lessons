@@ -30,5 +30,5 @@
 * pandas grouping dataframe [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20grouping%20dataframe.ipynb)]
 * pandas pivot tables [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20pivot%20tables.ipynb)]
 * pandas concatenation of DataFrame [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20concatenation%20of%20DataFrame.ipynb)]
-* pandas practice []
+* pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20practice.ipynb)]
 
