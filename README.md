@@ -31,5 +31,6 @@
 * pandas pivot tables [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20pivot%20tables.ipynb)]
 * pandas concatenation of DataFrame [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20concatenation%20of%20DataFrame.ipynb)]
 * pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20practice.ipynb)]
-## block 13
-* pandas preparation of new data (covid19) []
+## block 13 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2013%20data%20visualization)]
+* pandas preparation of new data (covid19) [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20preparation%20of%20new%20data%20(covid19).ipynb)]
+* pandas visualization features []
