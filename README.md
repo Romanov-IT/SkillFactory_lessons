@@ -34,3 +34,4 @@
 ## block 13 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2013%20data%20visualization)]
 * pandas preparation of new data (covid19) [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20preparation%20of%20new%20data%20(covid19).ipynb)]
 * pandas visualization features []
+* pandas Matplotlib features []
