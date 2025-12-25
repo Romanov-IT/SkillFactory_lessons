@@ -32,4 +32,4 @@
 * pandas concatenation of DataFrame [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20concatenation%20of%20DataFrame.ipynb)]
 * pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2012%20pandas/pandas%20practice.ipynb)]
 ## block 13
-* pandas 
+* pandas preparation of new data (covid19) []
