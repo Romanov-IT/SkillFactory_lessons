@@ -35,4 +35,5 @@
 * pandas preparation of new data (covid19) [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20preparation%20of%20new%20data%20(covid19).ipynb)]
 * pandas visualization features [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20visualization%20features.ipynb)]
 * pandas Matplotlib features [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20Matplotlib%20features.ipynb)]
-* pandas seaborn features []
+* pandas seaborn features [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20seaborn%20features.ipynb)]
+* pandas plotly features []
