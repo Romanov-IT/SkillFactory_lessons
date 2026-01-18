@@ -37,5 +37,5 @@
 * pandas Matplotlib features [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20Matplotlib%20features.ipynb)]
 * pandas seaborn features [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20seaborn%20features.ipynb)]
 * pandas plotly features [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20plotly%20features.ipynb)]
-* how choose visualization type []
+* how choose visualization type [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/how%20choose%20vizualization%20type.ipynb)]
 * pandas visualization practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20visualization%20practice.ipynb)]
