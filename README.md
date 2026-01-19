@@ -40,3 +40,4 @@
 * how choose visualization type [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/how%20choose%20vizualization%20type.ipynb)]
 * pandas visualization practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20visualization%20practice.ipynb)]
 ## block 14 []
+* pandas new data (apartments data by Sber) []
