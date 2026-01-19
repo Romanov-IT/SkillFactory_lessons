@@ -39,5 +39,6 @@
 * pandas plotly features [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20plotly%20features.ipynb)]
 * how choose visualization type [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/how%20choose%20vizualization%20type.ipynb)]
 * pandas visualization practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2013%20data%20visualization/pandas%20visualization%20practice.ipynb)]
-## block 14 []
-* pandas new data (apartments data by Sber) []
+## block 14 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2014%20pandas%20data%20cleaning)]
+* pandas new data (apartments data by Sber) [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20new%20data%20(apartments%20data%20by%20Sber).ipynb)]
+* pandas how to find NaN []
