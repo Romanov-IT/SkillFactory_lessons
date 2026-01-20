@@ -42,4 +42,4 @@
 ## block 14 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2014%20pandas%20data%20cleaning)]
 * pandas new data (apartments data by Sber) [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20new%20data%20(apartments%20data%20by%20Sber).ipynb)]
 * pandas how to find NaN [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20how%20to%20find%20NaN.ipynb)]
-* pandas NaN processing methods []
+* pandas NaN processing methods [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20NaN%20processing%20methods.ipynb)]
