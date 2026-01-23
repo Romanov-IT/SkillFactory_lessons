@@ -44,4 +44,5 @@
 * pandas how to find NaN [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20how%20to%20find%20NaN.ipynb)]
 * pandas NaN processing methods [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20NaN%20processing%20methods.ipynb)]
 * pandas anomaly values in data [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20anomaly%20values%20in%20data.ipynb)]
-* pandas processing duplicates and non-informative features []
+* pandas processing duplicates and non-informative features [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20processing%20duplicates%20and%20non-informative%20features.ipynb)]
+* pandas practice []
