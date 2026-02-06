@@ -47,4 +47,4 @@
 * pandas processing duplicates and non-informative features [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20processing%20duplicates%20and%20non-informative%20features.ipynb)]
 * pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20practice.ipynb)]
 ## block 15 []
-* python clsses & instance, attributes and methods []
+* python classes & instance, attributes and methods []
