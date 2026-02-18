@@ -48,3 +48,4 @@
 * pandas practice [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2014%20pandas%20data%20cleaning/pandas%20practice.ipynb)]
 ## block 15 [[text](https://github.com/Romanov-IT/SkillFactory_lessons/tree/main/block%2015%20python%20clsses%20%26%20instance%2C%20attributes%20and%20methods)]
 * python classes & instance, attributes and methods [[text](https://github.com/Romanov-IT/SkillFactory_lessons/blob/main/block%2015%20python%20clsses%20%26%20instance%2C%20attributes%20and%20methods/python%20classes%20%26%20instance%2C%20attributes%20and%20methods.ipynb)]
+* python classes practice examples []
